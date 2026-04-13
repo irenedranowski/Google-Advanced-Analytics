@@ -18,3 +18,16 @@ Focus: Sampling techniques and exploratory data analysis.
   * Activity_Course 3 distributions project.ipynb
 
 Focus: Probability distributions and AQI-based analysis.
+
+## Notebooks
+* Course 1
+  * Activity_Course 1 TikTok project lab.ipynb
+Introduction to data workflows and initial exploration.
+* Course 2
+  * Activity_Course 2 TikTok project lab.ipynb
+Continued analysis with structured frameworks (PACE) and data refinement.
+* Course 3
+  * Activity_Course 3 explore sampling.ipynb
+Sampling methods and exploratory analysis using air quality data.
+  * Activity_Course 3 distributions project.ipynb
+Statistical distributions and probability analysis using modified AQI data.
