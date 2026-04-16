@@ -6,28 +6,39 @@ This repository contains coursework projects and exploratory analyses across mul
 * tiktok_dataset.csv, used in:
   * Activity_Course 1 TikTok project lab.ipynb
   * Activity_Course 2 TikTok project lab.ipynb
-
-Focus: End-to-end data workflow, including cleaning, analysis, and applied frameworks.
+  * Activity_Course 3 Descriptive & Inferential Stats.ipynb
 
 * c4_epa_air_quality.csv, used in:
   * Activity_Course 3 explore sampling.ipynb
-
-Focus: Sampling techniques and exploratory data analysis.
+  * Activity_Course 3 explore confidence intervals.ipynb
+  * Activity_Course 3 explore hypothesis testing.ipynb
+  * Activity_Course 3 explore sampling.ipynb
 
 * modified_c4_epa_air_quality.csv, used in:
   * Activity_Course 3 distributions project.ipynb
-
-Focus: Probability distributions and AQI-based analysis.
-
+  
 ## Notebooks
+
 * Course 1
-  * Activity_Course 1 TikTok project lab.ipynb
-Introduction to data workflows and initial exploration.
+  * Activity_Course 1 TikTok project lab.ipynb  
+    Focus: Introduction to data workflows, cleaning, and initial exploration.
+
 * Course 2
-  * Activity_Course 2 TikTok project lab.ipynb
-Continued analysis with structured frameworks (PACE) and data refinement.
+  * Activity_Course 2 TikTok project lab.ipynb  
+    Focus: Continued analysis using structured frameworks (PACE), data refinement, and applied insights.
+
 * Course 3
-  * Activity_Course 3 explore sampling.ipynb
-Sampling methods and exploratory analysis using air quality data.
-  * Activity_Course 3 distributions project.ipynb
-Statistical distributions and probability analysis using modified AQI data.
+  * Activity_Course 3 Descriptive & Inferential Stats.ipynb  
+    Focus: Descriptive statistics, inferential statistics, and interpretation of TikTok dataset trends.
+
+  * Activity_Course 3 explore sampling.ipynb  
+    Focus: Sampling methods and exploratory analysis using air quality data.
+
+  * Activity_Course 3 explore confidence intervals.ipynb  
+    Focus: Confidence intervals, estimation techniques, and statistical interpretation.
+
+  * Activity_Course 3 explore hypothesis testing.ipynb  
+    Focus: Hypothesis testing methods, significance testing, and decision-making with air quality data.
+
+  * Activity_Course 3 distributions project.ipynb  
+    Focus: Statistical distributions, probability analysis, and AQI-based insights using modified air quality data.
