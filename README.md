@@ -16,6 +16,10 @@ This repository contains coursework projects and exploratory analyses across mul
 
 * modified_c4_epa_air_quality.csv, used in:
   * Activity_Course 3 distributions project.ipynb
+
+* marketing_sales_data.csv, used in:
+  * Activity_Course 4 running simple linear regressions project.ipynb
+
   
 ## Notebooks
 
@@ -42,3 +46,6 @@ This repository contains coursework projects and exploratory analyses across mul
 
   * Activity_Course 3 distributions project.ipynb  
     Focus: Statistical distributions, probability analysis, and AQI-based insights using modified air quality data.
+
+  * Activity_Course 4 running simple linear regressions project.ipynb  
+    Focus: Statistical modeling, visualization, and interpretation techniques to analyze relationships and draw insights.
