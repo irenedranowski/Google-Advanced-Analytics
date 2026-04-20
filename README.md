@@ -19,10 +19,11 @@ This repository contains coursework projects and exploratory analyses across mul
 
 * marketing_sales_data.csv, used in:
   * Activity_Course 4 running simple linear regressions project.ipynb
+
+* marketing_and_sales_data_evaluate_lr.csv, used in:
+  * Activity_Course 4 evaluate simple linear regression.ipynb
  
 
-
-  
 ## Notebooks
 
 * Course 1
@@ -51,5 +52,6 @@ This repository contains coursework projects and exploratory analyses across mul
 
   * Activity_Course 4 running simple linear regressions project.ipynb  
     Focus: Statistical modeling, visualization, and interpretation techniques to analyze relationships and draw insights.
+    
   * Activity_Course 4 evaluate simple linear regression.ipynb
     Focus: Exploratory data analysis and regression used to quantify how advertising spend drives Sales, highlighting TV as the dominant predictor.
