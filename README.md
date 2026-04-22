@@ -55,5 +55,8 @@ This repository contains coursework projects and exploratory analyses across mul
   * Activity_Course 4 running simple linear regressions project.ipynb  
     Focus: Statistical modeling, visualization, and interpretation techniques to analyze relationships and draw insights.
     
-  * Activity_Course 4 evaluate simple linear regression.ipynb
+  * Activity_Course 4 evaluate simple linear regression.ipynb  
     Focus: Exploratory data analysis and regression used to quantify how advertising spend drives Sales, highlighting TV as the dominant predictor.
+
+  * Activity_Course 4 perform multiple linear regression  
+    Focus: Evaluates how different marketing channels impact Sales and guide data-driven budget decisions.
