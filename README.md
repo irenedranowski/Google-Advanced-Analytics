@@ -22,6 +22,8 @@ This repository contains coursework projects and exploratory analyses across mul
 
 * marketing_and_sales_data_evaluate_lr.csv, used in:
   * Activity_Course 4 evaluate simple linear regression.ipynb
+* marketing_sales_data.csv, used in:
+  * Activity_Course 4 perform multiple linear regression
  
 
 ## Notebooks
