@@ -23,7 +23,9 @@ This repository contains coursework projects and exploratory analyses across mul
 * marketing_and_sales_data_evaluate_lr.csv, used in:
   * Activity_Course 4 evaluate simple linear regression.ipynb
 * marketing_sales_data.csv, used in:
-  * Activity_Course 4 perform multiple linear regression
+  * Activity_Course 4 perform multiple linear regression.ipynb
+* marketing_sales_data.csv used in:
+  * Activity_Course 4 Hypothesis testing with Python.ipynb
  
 
 ## Notebooks
@@ -58,5 +60,8 @@ This repository contains coursework projects and exploratory analyses across mul
   * Activity_Course 4 evaluate simple linear regression.ipynb  
     Focus: Exploratory data analysis and regression used to quantify how advertising spend drives Sales, highlighting TV as the dominant predictor.
 
-  * Activity_Course 4 perform multiple linear regression  
+  * Activity_Course 4 perform multiple linear regression.ipynd   
     Focus: Evaluates how different marketing channels impact Sales and guide data-driven budget decisions.
+
+  * Activity_Course 4 Hypothesis testing with Python.ipynb   
+    Focus: Linear regression modeling, one-way ANOVA testing, and Tukey’s HSD post hoc analysis.
