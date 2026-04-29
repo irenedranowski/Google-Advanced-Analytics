@@ -26,6 +26,9 @@ This repository contains coursework projects and exploratory analyses across mul
   * Activity_Course 4 perform multiple linear regression.ipynb
 * marketing_sales_data.csv used in:
   * Activity_Course 4 Hypothesis testing with Python.ipynb
+* Invistico_Airline.csv used in:
+  * Activity_Course 4 perform logistic regression.ipynb
+ 
  
 
 ## Notebooks
@@ -65,3 +68,6 @@ This repository contains coursework projects and exploratory analyses across mul
 
   * Activity_Course 4 Hypothesis testing with Python.ipynb   
     Focus: Linear regression modeling, one-way ANOVA testing, and Tukey’s HSD post hoc analysis.
+
+  * Activity_Course 4 perform logistic regression.ipynb  
+    Focus: Build and evaluate a logistic regression model to predict customer satisfaction and understand the factors that influence it.
