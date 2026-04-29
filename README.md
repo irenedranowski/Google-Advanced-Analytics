@@ -7,6 +7,7 @@ This repository contains coursework projects and exploratory analyses across mul
   * Activity_Course 1 TikTok project lab.ipynb
   * Activity_Course 2 TikTok project lab.ipynb
   * Activity_Course 3 Descriptive & Inferential Stats.ipynb
+  * Activity_Course 4 Logistic Regressions lab.ipynb
 
 * c4_epa_air_quality.csv, used in:
   * Activity_Course 3 explore sampling.ipynb
@@ -71,3 +72,6 @@ This repository contains coursework projects and exploratory analyses across mul
 
   * Activity_Course 4 perform logistic regression.ipynb  
     Focus: Build and evaluate a logistic regression model to predict customer satisfaction and understand the factors that influence it.
+    
+  * Activity_Course 4 TikTok project lab.ipynb  
+    Focus: Logistic Regression Model for Predicting TikTok Verified Status
