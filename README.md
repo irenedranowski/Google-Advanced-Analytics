@@ -20,7 +20,6 @@ This repository contains coursework projects and exploratory analyses across mul
 
 * marketing_sales_data.csv, used in:
   * Activity_Course 4 running simple linear regressions project.ipynb
-
 * marketing_and_sales_data_evaluate_lr.csv, used in:
   * Activity_Course 4 evaluate simple linear regression.ipynb
 * marketing_sales_data.csv, used in:
@@ -29,7 +28,9 @@ This repository contains coursework projects and exploratory analyses across mul
   * Activity_Course 4 Hypothesis testing with Python.ipynb
 * Invistico_Airline.csv used in:
   * Activity_Course 4 perform logistic regression.ipynb
- 
+
+* nba-players.csv, extracted_nba_players_data.csv used in:
+  * Activity_Course 5 Machine learning (feature engineering)
  
 
 ## Notebooks
@@ -75,3 +76,6 @@ This repository contains coursework projects and exploratory analyses across mul
     
   * Activity_Course 4 TikTok project lab.ipynb  
     Focus: Logistic Regression Model for Predicting TikTok Verified Status
+
+  * Activity_Course 5 perform feature engineering.ipynb  
+    Focus: Engineered new features (e.g., total points, efficiency) and structured the dataset for modeling.
