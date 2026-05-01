@@ -31,7 +31,7 @@ This repository contains coursework projects and exploratory analyses across mul
 
 * nba-players.csv, extracted_nba_players_data.csv used in:
   * Activity_Course 5 Machine learning (feature engineering)
- 
+    
 
 ## Notebooks
 
@@ -79,3 +79,6 @@ This repository contains coursework projects and exploratory analyses across mul
 
   * Activity_Course 5 perform feature engineering.ipynb  
     Focus: Engineered new features (e.g., total points, efficiency) and structured the dataset for modeling.
+
+  * Activity_Course 5 build a Naive Bayes model.ipynb  
+    Focus: Built a Naive Bayes model to make predictions by combining prior knowledge with new data, allowing the model to update its probabilities as more information becomes available.
