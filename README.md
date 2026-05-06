@@ -31,7 +31,11 @@ This repository contains coursework projects and exploratory analyses across mul
 
 * nba-players.csv, extracted_nba_players_data.csv used in:
   * Activity_Course 5 Machine learning (feature engineering)
-    
+
+ * penguins.csv
+   * Activity_Course 5 build a K-means model
+
+ 
 
 ## Notebooks
 
@@ -41,7 +45,7 @@ This repository contains coursework projects and exploratory analyses across mul
 
 * Course 2
   * Activity_Course 2 TikTok project lab.ipynb  
-    Focus: Continued analysis using structured frameworks (PACE), data refinement, and applied insights.
+    Focus: Continue analysis using structured frameworks (PACE), data refinement, and applied insights.
 
 * Course 3
   * Activity_Course 3 Descriptive & Inferential Stats.ipynb  
@@ -66,7 +70,7 @@ This repository contains coursework projects and exploratory analyses across mul
     Focus: Exploratory data analysis and regression used to quantify how advertising spend drives Sales, highlighting TV as the dominant predictor.
 
   * Activity_Course 4 perform multiple linear regression.ipynd   
-    Focus: Evaluates how different marketing channels impact Sales and guide data-driven budget decisions.
+    Focus: Evaluate how different marketing channels impact Sales and guide data-driven budget decisions.
 
   * Activity_Course 4 Hypothesis testing with Python.ipynb   
     Focus: Linear regression modeling, one-way ANOVA testing, and Tukey’s HSD post hoc analysis.
@@ -78,7 +82,12 @@ This repository contains coursework projects and exploratory analyses across mul
     Focus: Logistic Regression Model for Predicting TikTok Verified Status
 
   * Activity_Course 5 perform feature engineering.ipynb  
-    Focus: Engineered new features (e.g., total points, efficiency) and structured the dataset for modeling.
+    Focus: Engineer new features (e.g., total points, efficiency) and structured the dataset for modeling.
 
   * Activity_Course 5 build a Naive Bayes model.ipynb  
-    Focus: Built a Naive Bayes model to make predictions by combining prior knowledge with new data, allowing the model to update its probabilities as more information becomes available.
+    Focus: Build a Naive Bayes model to make predictions by combining prior knowledge with new data, allowing the model to update its probabilities as more information becomes available.
+
+  * Activity_Course 5_build a K-means model.ipynb  
+    Focus: Apply K-means clustering to the Palmer Penguins dataset to identify patterns based on penguin characteristics. Complete data cleaning, feature scaling, cluster evaluation, and visualization of clustering results.
+
+       
