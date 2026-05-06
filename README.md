@@ -34,6 +34,9 @@ This repository contains coursework projects and exploratory analyses across mul
 
  * penguins.csv
    * Activity_Course 5 build a K-means model
+  
+ * Invistico_Airline.csv
+   * Activity_Course 5 build a decision tree
 
  
 
@@ -89,5 +92,9 @@ This repository contains coursework projects and exploratory analyses across mul
 
   * Activity_Course 5_build a K-means model.ipynb  
     Focus: Apply K-means clustering to the Palmer Penguins dataset to identify patterns based on penguin characteristics. Complete data cleaning, feature scaling, cluster evaluation, and visualization of clustering results.
+
+  * Activity_Course 5 build a decision tree.ipynb  
+    Focus: Train and evaluate a decision tree model using accuracy, precision, recall, and F1 score, while applying GridSearchCV to optimize model performance and identify the features most associated with customer satisfaction.
+    
 
        
