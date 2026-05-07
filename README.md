@@ -33,10 +33,11 @@ This repository contains coursework projects and exploratory analyses across mul
   * Activity_Course 5 Machine learning (feature engineering)
 
  * penguins.csv
-   * Activity_Course 5 build a K-means model
+   * Activity_Course 5 build a K-means model.ipynb
   
  * Invistico_Airline.csv
-   * Activity_Course 5 build a decision tree
+   * Activity_Course 5 build a decision tree.ipynb
+   * Activity_Course 5 build a random forest model.ipynb
 
  
 
@@ -95,6 +96,9 @@ This repository contains coursework projects and exploratory analyses across mul
 
   * Activity_Course 5 build a decision tree.ipynb  
     Focus: Train and evaluate a decision tree model using accuracy, precision, recall, and F1 score, while applying GridSearchCV to optimize model performance and identify the features most associated with customer satisfaction.
-    
 
+  * Activity_Course 5 build a random forest model.ipynb  
+    Focus: Build a random forest model to predict airline customer satisfaction using passenger survey data. Perform exploratory data analysis (EDA), clean and encode features, split      the data into training and testing sets, apply GridSearchCV for hyperparameter tuning, evaluate model performance using accuracy, precision, recall, and F1 score, and identify the features most associated with customer satisfaction.
+    
+ 
        
